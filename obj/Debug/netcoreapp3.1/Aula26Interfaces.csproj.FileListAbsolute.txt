@@ -1,0 +1,13 @@
+C:\Breno USA\Senai\Aula26Interfaces\bin\Debug\netcoreapp3.1\Aula26Interfaces.exe
+C:\Breno USA\Senai\Aula26Interfaces\bin\Debug\netcoreapp3.1\Aula26Interfaces.deps.json
+C:\Breno USA\Senai\Aula26Interfaces\bin\Debug\netcoreapp3.1\Aula26Interfaces.runtimeconfig.json
+C:\Breno USA\Senai\Aula26Interfaces\bin\Debug\netcoreapp3.1\Aula26Interfaces.runtimeconfig.dev.json
+C:\Breno USA\Senai\Aula26Interfaces\bin\Debug\netcoreapp3.1\Aula26Interfaces.dll
+C:\Breno USA\Senai\Aula26Interfaces\bin\Debug\netcoreapp3.1\Aula26Interfaces.pdb
+C:\Breno USA\Senai\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.csprojAssemblyReference.cache
+C:\Breno USA\Senai\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.csproj.CoreCompileInputs.cache
+C:\Breno USA\Senai\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.AssemblyInfoInputs.cache
+C:\Breno USA\Senai\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.AssemblyInfo.cs
+C:\Breno USA\Senai\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.dll
+C:\Breno USA\Senai\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.pdb
+C:\Breno USA\Senai\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.genruntimeconfig.cache
